@@ -7,7 +7,7 @@ During last years Docker Inc release Docker Desktop suites for Mac that underthe
 Starting from Aug 31 Docker Inc [announced](https://www.docker.com/press-release/docker-updates-product-subscriptions/) that a _Docker Desktop licence will be required for larger organization 250+_. While Docker Desktop suites will be under the Docker Inc license restriction, docker and docker-compose CLI will still remain free available to be used.
 
 
-In order to continue to develop container, several container engines becomes popular and widely community supported. 
+If Docker is the most famous container engine, several other container engines becomes popular and widely community supported. 
 
 In this guide we will install *podman* container engines and we will connect docker and docker-compose CLI to the podman VM.
 
