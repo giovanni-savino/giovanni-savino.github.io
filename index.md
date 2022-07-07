@@ -4,7 +4,7 @@ Athe moment MacOS (both x86 and M1 chipset) doesn't support natively linux conta
 
 During last years Docker Inc release Docker Desktop suites for Mac that underthehood create a LinuxVM where  docker and docker-compose CLI could connect and run their container.
 
-Starting from Aug 31 [Docker Inc announced](https://www.docker.com/press-release/docker-updates-product-subscriptions/) that a _Docker Desktop licence will be required for larger organization 250+_. While Docker Desktop suites will be under the Docker Inc license restriction, docker and docker-compose CLI will still remain free available to be used.
+Starting from Aug 31 Docker Inc [announced](https://www.docker.com/press-release/docker-updates-product-subscriptions/) that a _Docker Desktop licence will be required for larger organization 250+_. While Docker Desktop suites will be under the Docker Inc license restriction, docker and docker-compose CLI will still remain free available to be used.
 
 
 In order to continue to develop container, several container engines becomes popular and widely community supported. 
