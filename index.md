@@ -22,7 +22,7 @@ On latest release, podman machine have new features:
 * You can easily change podman machine CPUs, RAM and rootless mode
 * You can install [podman desktop](https://podman-desktop.io/) to have a easy-to-use UI to manage your containers
 
-To install podman on the the MacOS, you can run:
+To install podman on the the MacOS, run:
 
 ```
 $ brew install podman
