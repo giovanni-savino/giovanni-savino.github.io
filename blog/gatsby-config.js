@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    pathPrefix: '/blog',
+    pathPrefix: '/giovanni-savino.github.io/blog',
     title: 'Solution Architecture hints and tips',
     description:
       'A list of ',
@@ -33,7 +33,7 @@ module.exports = {
     {
       resolve: 'gatsby-theme-amsterdam',
       options: {
-        colorToggle:	false
+        colorToggle:	true,
       },
     },
     {
